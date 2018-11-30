@@ -69,7 +69,7 @@ header .profile-image {
   margin-top: 50px;
   width: 150px;
   height: 150px;
-  border-radius: 50%;
+  border-radius: 5px;
   border: 3px solid #186B87;
   transition: all .5s;
 }
@@ -80,13 +80,14 @@ header .profile-image:hover {
   background-color: white;
   color: black;
   padding: 5px;
-  border-radius: 5px;
+  border-radius: 4px;
   display: table;
   margin: 10px auto;
 }
 .location {
   background-color: white;
   color: black;
+  border-radius: 4px;
 }
 .card {
   margin: 30px;
@@ -105,7 +106,7 @@ header .profile-image:hover {
   text-align:center;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: #1E693B;
 }
 
 ul.skills {
