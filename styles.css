@@ -98,6 +98,12 @@ header .profile-image:hover {
   border-radius: 6px;
   transition: all .5s;
 }
+.background {
+  text-align:center;
+}
+.goals {
+  text-align:center;
+}
 .card:hover {
   border-color: #ff99ff;
 }
